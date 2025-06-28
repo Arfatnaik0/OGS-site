@@ -5,6 +5,7 @@ import Kicks from "./pages/Kicks";
 import Watches from "./pages/Watches";
 import Home from "./pages/home";
 import NotFound from "./pages/notFound";
+import Footer from "./components/footer";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Route path="/watches" element={<Watches />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Footer/>
     </BrowserRouter>
   );
 };
