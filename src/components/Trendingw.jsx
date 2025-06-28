@@ -3,22 +3,26 @@ const TrendS = () => {
     const products=[{
         name:'placeholder',
         price:500,
-        img:'/product/watches/w-1.heic'
+        img:'/product/watches/w-1.heic',
+        link:'https://wa.link/ua15iy'
     },
     {
         name:'placeholder',
         price:500,
-        img:'/product/watches/w-4.heic'
+        img:'/product/watches/w-4.heic',
+        link:'https://wa.link/ua15iy'
     },
     {
         name:'placeholder',
         price:500,
-        img:'/product/watches/w-7.heic'
+        img:'/product/watches/w-7.heic',
+        link:'https://wa.link/ua15iy'
     },
     {
         name:'placeholder',
         price:500,
-        img:'/product/watches/w-11.heic'
+        img:'/product/watches/w-11.heic',
+        link:'https://wa.link/ua15iy'
     },
     ]
 
@@ -39,7 +43,7 @@ const TrendS = () => {
       <h2 className="text-lg font-semibold">{product.name}</h2>
       <p className="text-gray-600">₹{product.price}</p>
       <button className="bg-[rgba(255,_213,_0,_1)] px-3 py-1 rounded-xl shadow-[4px_4px_4px_0px_rgba(0,_0,_0,_0.1)] border mt-2">
-        <a href="">Buy now</a>
+        <a href={product.link}>Buy now</a>
       </button>
     </div>
   ))}
