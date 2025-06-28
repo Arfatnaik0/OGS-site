@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <div>
-    <div className="flex items-center flex-col-reverse w-full md:flex-row md:justify-center md:pl-60 md:h-[90dvh]">
-      <div className="flex justify-between items-center flex-col h-[35dvh] w-[90vw] md:w-[35vw] md:h-[55dvh]">
+    <div className="flex items-center flex-col-reverse w-full md:flex-row md:justify-center md:pl-60 md:h-[90vh]">
+      <div className="flex justify-between items-center flex-col h-[35vh] w-[90vw] md:w-[35vw] md:h-[55vh]">
         <h1 className="font-extrabold text-3xl text-center md:text-5xl">
           YOUR WRIST AND FEET DESERVE THE OG TREATMENT
         </h1>

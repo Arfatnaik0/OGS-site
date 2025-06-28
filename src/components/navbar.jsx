@@ -29,9 +29,8 @@ useEffect(() => {
 
   return (
     <div className="sticky top-3 z-50">
-      {/* <nav className="w-[90dvw] h-[10dvh] bg-white m-auto mt-4 rounded-xl flex items-center justify-between"> */}
       <nav
-      className={`w-[90dvw] h-[10dvh] bg-white m-auto mt-4 rounded-xl flex items-center justify-between transition-all duration-300 ${
+      className={`w-[90dvw] h-[10vh] bg-white m-auto mt-4 rounded-xl flex items-center justify-between transition-all duration-300 ${
       scrolled ? "backdrop-blur-md bg-white/70 shadow-md" : ""
       }`}>
         <img
