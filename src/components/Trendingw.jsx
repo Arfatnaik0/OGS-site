@@ -3,22 +3,22 @@ const TrendS = () => {
     const products=[{
         name:'placeholder',
         price:500,
-        img:'src/assets/product/watches/w-1.heic'
+        img:'/product/watches/w-1.heic'
     },
     {
         name:'placeholder',
         price:500,
-        img:'src/assets/product/watches/w-4.heic'
+        img:'/product/watches/w-4.heic'
     },
     {
         name:'placeholder',
         price:500,
-        img:'src/assets/product/watches/w-4.heic'
+        img:'/product/watches/w-7.heic'
     },
     {
         name:'placeholder',
         price:500,
-        img:'src/assets/product/watches/w-1.heic'
+        img:'/product/watches/w-11.heic'
     },
     ]
 

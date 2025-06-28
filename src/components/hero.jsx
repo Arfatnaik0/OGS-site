@@ -28,7 +28,7 @@ const Hero = () => {
       </div>
       <div className="md:w-[60dvw] md:h-full">
         <img
-          src="src/assets/images/shoe-hero.png"
+          src="/public/images/shoe-hero.png"
           alt="Shoe Hero"
           className="mt-15 h-[35vh] m-auto md:h-full md:overflow md:mr-100"
         />
