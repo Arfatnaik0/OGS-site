@@ -7,7 +7,7 @@ const socialLinks = [
 
 const Footer = () => {
   return (
-    <footer className=" bg-[#262625] text-white mt-5 pb-2 pt-2">
+    <footer className=" bg-[#262625] text-white mt-5 pb-6 md:pb-2 pt-2">
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 md:flex-row h-[10vh]">
         <p className="text-center text-sm font-light md:text-left">
           ©TheOGSS 
