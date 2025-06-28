@@ -35,7 +35,7 @@ useEffect(() => {
       scrolled ? "backdrop-blur-md bg-white/70 shadow-md" : ""
       }`}>
         <img
-          src="/Images/logo.png"
+          src="/Images/Logo.png"
           alt="Logo"
           className="h-[70%] ml-3 md:ml-20 md:h-[100%]"
         />
@@ -56,7 +56,7 @@ useEffect(() => {
         </div>
         <div className="md:hidden flex mr-5">
           <button onClick={toggleNavbar}>
-            <img src="/Images/hg.svg" alt="Menu" />
+            <img src="/Images/HG.svg" alt="Menu" />
           </button>
         </div>
       </nav>
