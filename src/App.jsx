@@ -6,10 +6,12 @@ import Watches from "./pages/watches";
 import Home from "./pages/home";
 import NotFound from "./pages/notFound";
 import Footer from "./components/footer";
+import ScrollToTop from './components/ScrollToTop';
 
 const App = () => {
   return (
     <BrowserRouter>
+    <ScrollToTop />
       <Navbar />
       <Routes>
         <Route path="/" element={<Navigate to="/home" replace />} />
