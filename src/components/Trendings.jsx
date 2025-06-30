@@ -9,13 +9,13 @@ const TrendW = () => {
     {
         name:'placeholder',
         price:2500,
-        img:'/product/shoes/w-2.jpg',
+        img:'/product/shoes/w-5.jpg',
         link:'https://wa.link/ua15iy'
     },
     {
         name:'placeholder',
         price:2500,
-        img:'/product/shoes/w-3.jpg',
+        img:'/product/shoes/w-6.jpg',
         link:'https://wa.link/ua15iy'
     },
     {
