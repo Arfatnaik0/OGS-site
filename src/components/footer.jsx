@@ -13,7 +13,7 @@ const Footer = () => {
           ©TheOGSS 
         </p>
 
-        <div className="flex justify-center gap-10 md:ml-34">
+        <div className="flex justify-center gap-10 md:ml-38">
           {socialLinks.map((link, index) => (
             <a
               key={index}
@@ -30,7 +30,8 @@ const Footer = () => {
         <p
           className="text-center text-sm font-light md:text-right"
         >
-          Site Designed and coded by Arfat
+          Site designed and made by
+          <a target="_blank" href="https://personal-portfolio-arfat.vercel.app/" className="ml-1.5 text-amber-400 text-xl underline-offset-2 underline">Arfat</a>
         </p>
       </div>
     </footer>
