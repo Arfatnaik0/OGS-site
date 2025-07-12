@@ -4,25 +4,25 @@ const TrendW = () => {
         name:'New Balance 9060(Burgundy)',
         price:2500,
         img:'/product/shoes/s (8).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/6tztkq'
     },
     {
         name:'Nike JumpMan MVP Black',
         price:2500,
         img:'/product/shoes/s (17).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/b1ckic'
     },
     {
         name:'Air Jordan 1 Chicago',
         price:2500,
         img:'/product/shoes/s (18).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/nt7ezl'
     },
     {
         name:'Nike Air Force Ambush coffee milk',
         price:2500,
         img:'/product/shoes/s (26).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/uvgib9'
     },
     ]
 
