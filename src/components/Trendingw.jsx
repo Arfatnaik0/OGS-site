@@ -4,25 +4,25 @@ const TrendS = () => {
         name:'SABR',
         price:1500,
         img:'/product/watches/watch (3).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/6ng80r'
     },
     {
         name:'Vacheron Constantin Historiques 222',
         price:1500,
         img:'/product/watches/watch (25).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/1zsq25'
     },
     {
         name:'Spiderman x Fossil',
         price:1500,
         img:'/product/watches/watch (29).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/np07di'
     },
     {
         name:'Casio Quartz square(white)',
         price:1500,
         img:'/product/watches/watch (17).webp',
-        link:'https://wa.link/ua15iy'
+        link:'https://wa.link/iljkjp'
     },
     ]
 
